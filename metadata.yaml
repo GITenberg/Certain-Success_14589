@@ -1,0 +1,32 @@
+_repo: Certain-Success_14589
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawkins, Norval A.
+    gutenberg_agent_id: '5583'
+    url: http://www.gutenberg.org/2009/agents/5583
+description: There are particular characteristics one can have, and particular things
+  one can do, that will make failure in life certain. Why, then, should not the possession
+  of particular opposite characteristics, and the doing of particular opposite things,
+  result as certainly in success, which is the antithesis of failure? That is a logical,
+  common-sense question. The purpose of this book is to answer it convincingly for
+  you. Success can be made certain; not, however, by the mere possession of particular
+  characteristics, nor by just doing particular things ...
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Selling'
+- !lcc 'HF'
+- !lcsh 'Success'
+- !lcsh 'Sales personnel'
+title: Certain Success
+url: http://www.gutenberg.org/ebooks/14589
